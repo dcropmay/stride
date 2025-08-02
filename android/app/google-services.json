@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460609982169",
+    "project_id": "stride-116de",
+    "storage_bucket": "stride-116de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460609982169:android:93834f679a2c9a9627f8c8",
+        "android_client_info": {
+          "package_name": "com.example.stride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdMrwsOTj7oN_5N_Cp4aIjcWQW0MFBRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
